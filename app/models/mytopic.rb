@@ -1,0 +1,2 @@
+class Mytopic < ApplicationRecord
+end
